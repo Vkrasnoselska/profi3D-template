@@ -1,0 +1,208 @@
+/*
+Theme Name: Print shop
+Theme URI: http://underscores.me/
+Author: Underscores.me
+Author URI: http://underscores.me/
+Description: Description
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: print-shop
+
+*/
+.woocommerce-message{
+	background-color: rgba(255, 226, 0, 0.28) !important;
+   	border-top: 4px solid #e9d106 !important;
+
+}
+.woocommerce-message a.wc-forward{
+	border: none !important;
+	background-color: transparent !important;
+	color: #000 !important;
+	text-decoration: underline !importnat;
+}
+p.price.product0 {
+    display: none;
+}
+.cat-box a .image-cat{
+    height: 270px !important;
+}
+.product_cat-37 .cat-box,
+.product_cat-38 .cat-box,
+.product_cat-170 .cat-box{
+    background-size: contain;
+    height: 450px;
+}
+.product_cat-37 .cat-box{
+background-size: contain;
+    background-repeat: no-repeat;
+     background-image: url(http://www.profi-3d-printer.com/wp-content/uploads/2017/03/Pharaoh-xd20.png);
+}
+.product_cat-38 .cat-box{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(http://www.profi-3d-printer.com/wp-content/uploads/2017/04/Dynasty.png);
+    
+}
+.cat-box p{
+    height: 0px !important;
+}
+.cat-box a {
+    height: 230px !important;}
+
+.product_cat-170 .cat-box {
+    background-size: contain;
+    background-repeat: no-repeat;
+   background-image: url(http://www.profi-3d-printer.com/wp-content/uploads/2017/04/factory_white_background-2.jpg);
+}
+.product_cat-170 img,
+.product_cat-38 img,
+.product_cat-37 img{
+    width: 0px;
+}
+a.fancybox.brown-button {
+    background-color: #f1f1f1;
+    border: none;
+    max-width: 40px;
+    height: 40px;
+    z-index: 999;
+    left: 70px;
+    margin-top: 35px;
+    position: absolute;
+    -webkit-transition: all .3s ease;
+    text-align: center;
+    padding: 1px 1px;
+    line-height: 12px;
+    text-transform: uppercase;
+    font-size: 9px;
+    display: -ms-flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    -webkit-box-align: center;
+    /* position: relative; */
+    color: #000;
+}
+.home .common-title span:nth-child(1) {
+    font-size: 0px !important;
+}
+.home .col-lg-12:first-child .common-title span:nth-child(1):before {
+    content: "3D-Drucker für die professionelle Anwendung";
+    font-size: 28px !important;
+    font-family: GothaProBol,Arial,sans-serif;
+    text-transform: uppercase;
+    padding-right: 15px;
+}
+.home .hb-container .common-title span:nth-child(1):before {
+    content: "3D-Scanner für die Digitalisierung dreidimensionaler Objekte";
+ font-size: 28px !important;
+    font-family: GothaProBol,Arial,sans-serif;
+    text-transform: uppercase;
+    padding-right: 15px;
+}
+.home .tab-container .wrapper h2.common-title span:nth-child(1):before {
+    content: "Filamente für Ultimaker, Omni3D, Mass Portal & MiniFactory";
+ font-size: 28px !important;
+    font-family: GothaProBol,Arial,sans-serif;
+    text-transform: uppercase;
+    padding-right: 15px;
+}
+.blog-inner-section .blog-inner-box img {
+    float: none !important;
+    display: block;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    max-width: 300px;
+}
+.change-link{
+	color: #000;
+	text-transform: uppercase;
+	padding: 10px 15px;
+	border-left: 2px solid #ffe200;
+	border-right: 2px solid #ffe200;
+	margin-top: 25px;
+	transition: all .3s ease;
+	display: table;
+}
+
+.change-link:hover{
+	background-color: #ffe200;
+	color: #000;
+}
+i.fa.fa-video-camera {
+    font-size: 16px;
+}
+img {
+    height: auto;
+
+}
+
+p {
+    word-wrap: break-word;
+}
+
+.addtoany_list.a2a_kit_size_32 a {
+    display: inline-block;
+    margin-top: 15px;
+}
+
+.group_cat_img {
+    width: 100% !important;
+}
+
+.blog-page .attachment-post-thumbnail {
+    height: 100% !important;
+}
+
+#wp-subscribe p {
+    color: white;
+}
+
+#wp-subscribe .thanks {
+    padding-bottom: 10px;
+}
+
+.hide_option {
+    display: none;
+}
+
+#infscr-loading {
+    text-align: center;
+    z-index: 100;
+    position: fixed;
+    left: 45%;
+    bottom: 40px;
+    width: 200px;
+    padding: 10px;
+    background: #000;
+    opacity: 0.8;
+    color: #FFF;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+#infscr-loading > img {
+    width: 60px;
+    height: 60px;
+}
+
+.compare-success {
+    color: red;
+}
+
+.compare-count:before {
+    content: '';
+}
+
+.cart-products-hide {
+    display: none;
+}
+
+.your-message > textarea {
+    height: 120px !important;
+}
+.function-container span {
+    text-transform: lowercase;
+}
+
+background-image: url(http://www.profi-3d-printer.com/wp-content/uploads/2017/04/Depositphotos_
